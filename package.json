@@ -1,0 +1,21 @@
+{
+  "name": "@saurav_kumar/package-sk-module-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "tsc index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "private": false
+}
